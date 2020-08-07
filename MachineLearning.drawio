@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T15:13:11.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="FAlzkXR14PAK_McuNxWq" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-07T15:13:41.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="D5nYs6Gdne-IH8Miqnnd" version="13.6.0" type="github">
   <diagram id="QuiynFQBWSvwr-dOyDzd" name="Page-1">
     <mxGraphModel dx="1888" dy="1599" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#1A1A1A" math="0" shadow="0">
       <root>
@@ -118,22 +118,22 @@
         <mxCell id="P-y4f1cWEfWgXK431O_4-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#FF3399;" vertex="1" parent="1">
           <mxGeometry x="-351" y="479" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P-y4f1cWEfWgXK431O_4-54" value="Linear Regression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#999900;" vertex="1" parent="1">
+        <mxCell id="P-y4f1cWEfWgXK431O_4-54" value="Linear Regression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="675" y="-39" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P-y4f1cWEfWgXK431O_4-55" value="Polynomial Regression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#999900;" vertex="1" parent="1">
+        <mxCell id="P-y4f1cWEfWgXK431O_4-55" value="Polynomial Regression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="695" y="-109" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P-y4f1cWEfWgXK431O_4-56" value="Regularized&amp;nbsp;&lt;br&gt;Regression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#999900;" vertex="1" parent="1">
+        <mxCell id="P-y4f1cWEfWgXK431O_4-56" value="Regularized&amp;nbsp;&lt;br&gt;Regression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="811" y="-144" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P-y4f1cWEfWgXK431O_4-57" value="Decision Tress" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#999900;" vertex="1" parent="1">
+        <mxCell id="P-y4f1cWEfWgXK431O_4-57" value="Decision Tress" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="893" y="-121" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P-y4f1cWEfWgXK431O_4-58" value="Nearest Neighbor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#999900;" vertex="1" parent="1">
+        <mxCell id="P-y4f1cWEfWgXK431O_4-58" value="Nearest Neighbor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="936" y="-59" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P-y4f1cWEfWgXK431O_4-60" value="Deep Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#999900;" vertex="1" parent="1">
+        <mxCell id="P-y4f1cWEfWgXK431O_4-60" value="Deep Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="927" y="3" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P-y4f1cWEfWgXK431O_4-61" value="Logistic Regression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=16;fontColor=#CCCC00;" vertex="1" parent="1">
